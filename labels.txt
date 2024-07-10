@@ -1,0 +1,3 @@
+0 Image Good
+1 Image Bad
+2 Inavlid
