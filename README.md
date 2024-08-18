@@ -11,7 +11,7 @@ The classifier uses a pre-trained Keras model (`keras_Model.h5`) to distinguish 
 
 ### Prerequisites
 
-- Ensure Python is installed (`python --version`).
+- Ensure Python 3.11.4 is installed (`python --version`).
 - Install required packages:
   ```bash
   pip install opencv-python tensorflow numpy
